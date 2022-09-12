@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>List Quiz</title>
+</head>
+
+<body>
+    <h1>My IT Subjects</h1>
+    <ol type="I">
+        <li>Programming</li>
+        <ul type="square">
+            <li>Programming 1</li>
+            <li>Programming 2</li>
+        </ul>
+        <li>Design</li>
+        <ul type="disc">
+            <li>MulSys</li>
+            <li>Animation</li>
+            <ol type="A">
+                <li>2D Animation</li>
+                <li>3D Animation</li>
+            </ol>
+        </ul>
+
+    </ol>
+</body>
+
+</html>
